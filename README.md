@@ -1117,20 +1117,9 @@ Clash Android 客户端
 
 https://github.com/Kr328/ClashForAndroid/releases
 
-节点
 
-Clash订阅
 
-https://raw.githubusercontent.com/adiwzx/freenode/main/adiclash.yml https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
-Clash加速地址1：https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
-
-Clash加速地址2：https://cdn.jsdelivr.net/gh/a2470982985/getNode@main/clash.yaml
-
-https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
-怎么用自己baidu把
-
+VPN：https://dashboard.singlinkvpn.com/cn/register?code=1MvgrKun
 
 
 [ 2026年数字货币交易所前10大排名与上榜理由](https://ai.feishu.cn/wiki/SPCHwsPn0iLcM7kk334ctMLEnlh)
